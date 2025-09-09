@@ -48,7 +48,7 @@
 ## 📌 Pinned Projects  
 <p align="center">
   <a href="https://github.com/RohanSoni0507/BookWise4.0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RohanSoni05070&repo=BookWise4.0&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RohanSoni0507&repo=BookWise4.0&theme=tokyonight" />
   </a>
   <a href="https://github.com/RohanSoni0507/NewsPortal-WebAp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RohanSoni0507&repo=NewsPortal-WebAp&theme=tokyonight" />
