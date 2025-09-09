@@ -48,19 +48,19 @@
 ## 📌 Pinned Projects  
 <p align="center">
   <a href="https://github.com/RohanSoni0507/BookWise4.0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka8590&repo=TaskManagementTool&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RohanSoni05070&repo=BookWise4.0&theme=tokyonight" />
   </a>
   <a href="https://github.com/RohanSoni0507/NewsPortal-WebAp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka8590&repo=WeatherApp&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RohanSoni0507&repo=NewsPortal-WebAp&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/RohanSoni0507/Round-Robin-Scheduler-Simulation-WebApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka8590&repo=ExamManagementSystem&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RohanSoni0507&repo=Round-Robin-Scheduler-Simulation-WebApp&theme=tokyonight" />
   </a>
   <a href="https://github.com/RohanSoni0507/Voice-Activated-Personal-Assistant-WebApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka8590&repo=ShoppingCartWebapp&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RohanSoni0507&repo=Voice-Activated-Personal-Assistant-WebApp&theme=tokyonight" />
   </a>
 </p>
 
@@ -69,9 +69,9 @@
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/kanishka-sharma-13abb7351/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:ks8590@srmist.edu.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1HjMaf9jBIOGDtPV7-4oiobq8nxnJKvQs/view?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/rohan-soni-963038224/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:rs4833@srmist.edu.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://rohansoni0507.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" /></a> 
 </p>
 
 ---
